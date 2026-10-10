@@ -1,6 +1,5 @@
 # SECTION 1 - CONTRAVENTION
 
-<details>
 
 <summary>TITRE 1 - L’ATTEINTE AUX BIENS</summary>
 
@@ -48,9 +47,8 @@ Nécessité faisant loi :
 
 Le fait de pénétrer ou fouiller un bien sans autorisation légale ou consentement constitue une violation de propriété privée.
 
-</details>
 
-<details>
+
 
 <summary>TITRE 2 - L’ATTEINTE À L'ORDRE PUBLIC</summary>
 
@@ -78,9 +76,8 @@ Est une contravention d’atteinte à la pudeur le fait d’imposer en ville à 
 * un acte sexuel,
 * une image portant atteinte aux bonnes mœurs.
 
-</details>
 
-<details>
+
 
 <summary>TITRE 3 - STUPÉFIANTS &#x26; MARCHANDISES ILLEGALES</summary>
 
@@ -105,4 +102,4 @@ Cela s’applique si la marchandise est trouvée :
 * dans un moyen de transport
 * dans une propriété, même sans titre
 
-</details>
+

@@ -26,7 +26,6 @@
           {
             "group": "INFRACTIONS",
             "pages": [
-              "CODE PENAL/preambule",
               "section-1-contravention",
               "section-2-delit-mineur",
               "section-3-delit-majeur",
@@ -35,6 +34,7 @@
           }
         ]
       },
+      "tableaux-des-peines",
       {
         "group": "CODE DE PROCEDURE PENAL",
         "pages": [

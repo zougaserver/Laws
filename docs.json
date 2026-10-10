@@ -10,6 +10,7 @@
   },
   "navigation": {
     "pages": [
+      "organigramme-institutions",
       "CONSTITUTION",
       {
         "group": "CODE PENAL",

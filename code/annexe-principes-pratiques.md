@@ -11,4 +11,4 @@ title: "ANNEXE - Principes pratiques"
 7. Les mandats d’arrêt doivent être écrits et signés par une autorité compétente sauf flagrant délit.
 8. Les audiences doivent être consignées dans un registre officiel.
 9. Les amendes non payées peuvent être converties en peine alternative décidée par le juge.
-10. Les autorités peuvent accorder une grâce exceptionnelle dans l’intérêt du Comté.
+10. Les autorités peuvent accorder une grâce exceptionnelle dans l’intérêt de l'État.

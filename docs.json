@@ -9,7 +9,8 @@
     "dark": "#967044"
   },
   "navigation": {
-    "groups": [
+    "pages": [
+      "CONSTITUTION",
       {
         "group": "CODE PENAL",
         "pages": [

@@ -1,4 +1,6 @@
-# LIVRE VII - Peines et exécution
+---
+title: "LIVRE VII - Peines et exécution"
+---
 
 ## Article 32 — Types de peines
 

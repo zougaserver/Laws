@@ -1,4 +1,6 @@
-# ANNEXE - Principes pratiques
+---
+title: "ANNEXE - Principes pratiques"
+---
 
 1. Toute intervention des forces de l’ordre doit être proportionnée.
 2. Les preuves illégalement obtenues peuvent être écartées par le juge.

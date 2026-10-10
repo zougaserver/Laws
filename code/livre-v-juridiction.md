@@ -1,4 +1,6 @@
-# LIVRE V - Juridiction
+---
+title: "LIVRE V - Juridiction"
+---
 
 ## Article 22 — Tribunal local
 

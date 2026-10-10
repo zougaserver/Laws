@@ -1,4 +1,6 @@
-# LIVRE IV - Instruction et enquête
+---
+title: "LIVRE IV - Instruction et enquête"
+---
 
 ## Article 17 — Ouverture d’enquête
 

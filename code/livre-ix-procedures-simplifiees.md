@@ -1,4 +1,6 @@
-# LIVRE IX - Procédures simplifiées
+---
+title: "LIVRE IX - Procédures simplifiées"
+---
 
 ## Article 40 — Transaction pénale
 

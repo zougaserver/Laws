@@ -1,4 +1,6 @@
-# LIVRE I - Principes Généraux
+---
+title: "LIVRE I - Principes Généraux"
+---
 
 ## Article 1 — Objet du Code
 

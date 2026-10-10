@@ -1,4 +1,6 @@
-# LIVRE VI - Procés Penal
+---
+title: "LIVRE VI - Procés Penal"
+---
 
 ## Article 26 — Ouverture du procès
 

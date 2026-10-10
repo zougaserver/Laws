@@ -1,4 +1,6 @@
-# LIVRE X - Dispositions finales
+---
+title: "LIVRE X - Dispositions finales"
+---
 
 ## Article 40 — Application territoriale
 

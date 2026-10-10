@@ -25,7 +25,11 @@
           {
             "group": "INFRACTIONS",
             "pages": [
-              "CODE PENAL/preambule"
+              "CODE PENAL/preambule",
+              "section-1-contravention",
+              "section-2-delit-mineur",
+              "section-3-delit-majeur",
+              "section-4-crimes"
             ]
           }
         ]

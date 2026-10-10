@@ -1,0 +1,47 @@
+# SECTION 3 - JUSTICE
+
+#### Article 1 – Rôle de la Justice dans l'État
+
+* La Justice constitue l'un des pouvoirs fondamentaux de l'État. Elle est chargée d'assurer l'application des lois, de connaître des infractions civiles et pénales, de garantir à toute personne un procès juste et impartial, ainsi que de protéger les droits et les libertés reconnus par la Constitution et les lois en vigueur.
+
+#### Article 2 – Bureau des Juges
+
+Le juge fédéral est nommé par le **Président des États-Unis**, avec l'avis et le consentement du Sénat. Il exerce ses fonctions en toute indépendance et rend la justice conformément à la Constitution et aux lois fédérales.
+
+
+
+* Seul un juge est habilité à prononcer les peines prévues par le Code pénal à l'issue d'un procès régulièrement constitué.
+* Le juge fédéral est l'autorité judiciaire supérieure de l'État. Il peut nommer des **juges de comté** afin d'assurer l'administration de la justice locale.
+* Les juges de comté exercent leur autorité uniquement dans le comté auquel ils sont assignés et ne peuvent connaître que des affaires relevant de cette juridiction territoriale, sauf décision contraire du juge fédéral.
+* Tout juge faisant l'objet de poursuites pénales ou présentant un conflit d'intérêts doit se récuser de l'affaire concernée jusqu'à ce qu'une décision soit rendue par l'autorité compétente.
+* En cas de décès, de démission, d'incapacité ou de vacance d'un siège, un nouveau juge est nommé conformément aux dispositions constitutionnelles en vigueur.
+* Lorsqu'aucun juge n'est disponible pour connaître d'une affaire, celle-ci peut être renvoyée devant un autre juge compétent ou ajournée jusqu'à la désignation d'un magistrat.
+
+#### Article 3 - Avocats
+
+* L’avocat peut assister son client à toutes les étapes d’une procédure pénale, s’il en fait la demande. Il peut :
+* Être présent en cas d’arrestation ou de détention
+* Contester une preuve ou une procédure illégale
+* Défendre la position de son client (légitime défense, troubles mentaux, etc.)
+* Négocier la peine, représenter son client devant le juge
+* Transmettre les demandes de son client aux autorités
+
+L’avocat peut défendre un accusé ou une victime, et représenter des particuliers comme des entreprises.
+
+* L’avocat n’est pas un représentant de la loi, il est assermenté en interne par le Juge. Il est tenu au secret professionnel.
+* Le Juge supervise l’ensemble des avocats de l’État.
+
+#### **Article 4 – United States Marshals**
+
+Les **United States Marshals** constituent le bras exécutif de la Justice fédérale. Placés sous l'autorité du juge fédéral dans l'exécution des décisions judiciaires et sous l'autorité du Département de la Justice des États-Unis, ils sont chargés de faire respecter les ordonnances et mandats émis par les juridictions fédérales.
+
+Ils sont notamment investis des missions suivantes :
+
+* Exécuter les mandats d'arrêt, de perquisition, de saisie et toute autre ordonnance émise par un juge fédéral.
+* Assurer la sécurité des tribunaux fédéraux, des juges et des officiers de justice lorsque les circonstances l'exigent.
+* Procéder à l'arrestation et au transfert des personnes recherchées par la justice fédérale.
+* Assurer la garde et le transport des détenus placés sous la responsabilité de la Justice fédérale.
+* Apporter leur concours aux autorités locales lorsque celles-ci sollicitent leur assistance dans une affaire relevant de la compétence fédérale.
+* Veiller à l'exécution des jugements et décisions rendus par les juridictions fédérales.
+
+Les **United States Marshals** disposent de l'autorité nécessaire pour intervenir sur l'ensemble du territoire de l'État dans toute affaire relevant de la juridiction fédérale, sans préjudice des compétences exercées par les services de police et les bureaux des shérifs des différents comtés.

@@ -1,4 +1,6 @@
-# SECTION 1 - RÈGLES GÉNÉRALES DE PROCÉDURE
+---
+title: "SECTION 1 - RÈGLES GÉNÉRALES DE PROCÉDURE"
+---
 
 #### Article 1 – Classification des infractions
 

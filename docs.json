@@ -1,1 +1,36 @@
-test
+
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "mint",
+  "name": "Documentation RedM",
+  "colors": {
+    "primary": "#B68A52",
+    "light": "#C9A16B",
+    "dark": "#967044"
+  },
+  "navigation": {
+    "groups": [
+      {
+        "group": "Introduction",
+        "pages": [
+          "index",
+          "installation"
+        ]
+      },
+      {
+        "group": "Configuration",
+        "pages": [
+          "configuration/serveur",
+          "configuration/scripts"
+        ]
+      },
+      {
+        "group": "Guides",
+        "pages": [
+          "guides/commandes",
+          "guides/metiers"
+        ]
+      }
+    ]
+  }
+}

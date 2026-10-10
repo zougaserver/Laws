@@ -12,8 +12,6 @@
     "pages": [
       "organigramme-institutions",
       "CONSTITUTION",
-      "executive-order-895-c",
-      "ordonnance-judiciaire-speciale-1895-04",
       {
         "group": "CODE PENAL",
         "pages": [
@@ -52,6 +50,38 @@
           "code/livre-viii-voie-de-recours",
           "code/livre-ix-procedures-simplifiees",
           "code/livre-x-dispositions-finales"
+        ]
+      },
+      {
+        "group": "DECRET",
+        "pages": [
+          {
+            "group": "GOUVERNEMENT",
+            "pages": [
+              "decret-reconstruction-financiere-cumberlands",
+              "decret-levee-partielle-alerte-sanitaire-1895"
+            ]
+          },
+          {
+            "group": "JUSTICE",
+            "pages": [
+              "executive-order-895-c",
+              "ordonnance-judiciaire-speciale-1895-04",
+              "ordonnance-urgence-sanitaire-martiale-1895-09"
+            ]
+          },
+          {
+            "group": "WEST - ELIZABETH",
+            "pages": []
+          },
+          {
+            "group": "NEW - HANOVER",
+            "pages": []
+          },
+          {
+            "group": "LEMOYNE",
+            "pages": []
+          }
         ]
       }
     ]

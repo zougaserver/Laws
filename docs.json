@@ -11,24 +11,38 @@
   "navigation": {
     "groups": [
       {
-        "group": "Introduction",
+        "group": "CODE PENAL",
         "pages": [
-          "index",
-          "installation"
+          {
+            "group": "DISPOSITION GENERAL",
+            "pages": [
+              "DISPOSITION GENERAL/section-2-definitions-generales",
+              "DISPOSITION GENERAL/section-3-justice",
+              "DISPOSITION GENERAL/section-4-forces-de-lordre"
+            ]
+          },
+          {
+            "group": "INFRACTIONS",
+            "pages": [
+              "CODE PENAL/preambule"
+            ]
+          }
         ]
       },
       {
-        "group": "Configuration",
+        "group": "CODE DE PROCEDURE PENAL",
         "pages": [
-          "configuration/serveur",
-          "configuration/scripts"
-        ]
-      },
-      {
-        "group": "Guides",
-        "pages": [
-          "guides/commandes",
-          "guides/metiers"
+          "code/annexe-principes-pratiques",
+          "code/livre-i-principes-generaux",
+          "code/livre-ii-constatation-des-infractions",
+          "code/livre-iii-garde-a-vue-et-arrestation",
+          "code/livre-iv-instruction-et-enquete",
+          "code/livre-ix-procedures-simplifiees",
+          "code/livre-v-juridiction",
+          "code/livre-vi-proces-penal",
+          "code/livre-vii-peines-et-execution",
+          "code/livre-viii-voie-de-recours",
+          "code/livre-x-dispositions-finales"
         ]
       }
     ]
